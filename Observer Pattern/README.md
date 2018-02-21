@@ -21,4 +21,4 @@ observer wants to know about it
 #### UML of this implementation
 
 
-![alt text](Observer_Pattern_UML.png "Description goes here")
+![UML of an Observer Pattern](Observer_Pattern_UML.png)
